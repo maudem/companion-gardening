@@ -17,3 +17,15 @@ export default function Home() {
 
   );
 };
+
+
+// ToDo:
+
+// Calendar
+  // favorites/selected seedtime and others
+  // notifications for stuff to remember
+
+// Landing
+  // inputs
+    // zones
+    // zip code
